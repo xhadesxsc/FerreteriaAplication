@@ -14,6 +14,11 @@ namespace LIB_ENTIDAD
         public DateTime pro_fec;
         public string pro_mar;
         public string pro_mod;
-
+        public int cod_uni;
+        public int pro_smin;
+        public int pro_sact;
+        public int pro_smax;
+        public string pro_img;
+        public int pro_est;
     }
 }
